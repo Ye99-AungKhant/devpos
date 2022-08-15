@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "name": "orange",
+      "price": 5,
+      "image": "https://cdn.pixabay.com/photo/2016/10/07/14/11/tangerines-1721633__340.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Apple",
+      "price": 3,
+      "image": "https://cdn.pixabay.com/photo/2014/10/15/22/06/apples-490474__340.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Banana",
+      "price": 4,
+      "image": "https://cdn.pixabay.com/photo/2015/11/05/23/08/banana-1025109__340.jpg"
+    },
+    {
+      "id": 126,
+      "name": "watermelo",
+      "price": 10,
+      "image": "https://media.istockphoto.com/photos/ripe-juicy-watermelon-isolated-on-white-background-picture-id1321448019?b=1&k=20&m=1321448019&s=170667a&w=0&h=DZz2EHGNbBO8EqyHSQlQzbaWUET0oJjoDZxsURg1Mzk="
+    },
+    {
+      "id": 126,
+      "name": "Potato",
+      "price": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/08/11/08/49/potatoes-1585075__340.jpg"
+    },
+    {
+      "id": 126,
+      "name": "Salmon",
+      "price": 10,
+      "image": "https://media.istockphoto.com/photos/raw-fillet-of-salmon-with-sea-salt-lemon-and-pepper-on-black-stone-picture-id1319267869?b=1&k=20&m=1319267869&s=170667a&w=0&h=K4xrSUkMGSoXTIxC-OfWMmYBYsaqfx0Ttq2r74BG5vI="
+    },
+    {
+      "name": "Pizza",
+      "price": "20",
+      "image": "https://cdn.pixabay.com/photo/2014/07/08/12/34/pizza-386717__340.jpg",
+      "id": 127
+    },
+    {
+      "name": "Cocacola",
+      "price": "5",
+      "image": "https://cdn.pixabay.com/photo/2014/09/26/19/51/drink-462776__340.jpg",
+      "id": 128
+    },
+    {
+      "name": "Orange",
+      "price": "5",
+      "image": "\"https://cdn.pixabay.com/photo/2016/10/07/14/11/tangerines-1721633__340.jpg",
+      "id": 129
+    },
+    {
+      "name": "jhoj",
+      "price": "098",
+      "image": "jkjj",
+      "id": 130
+    }
+  ],
+  "sales": [
+    {
+      "name": "",
+      "price": 0,
+      "qty": 0,
+      "total": 0,
+      "id": 1
+    },
+    {
+      "name": {
+        "id": 125,
+        "name": "Banana",
+        "price": 4,
+        "image": "https://cdn.pixabay.com/photo/2015/11/05/23/08/banana-1025109__340.jpg",
+        "quantity": 1,
+        "totalAmount": 4
+      },
+      "price": 0,
+      "qty": 0,
+      "total": 0,
+      "id": 2
+    },
+    {
+      "price": 0,
+      "qty": 0,
+      "total": 0,
+      "id": 3
+    },
+    {
+      "name": "",
+      "price": 0,
+      "qty": 0,
+      "total": 0,
+      "id": 4
+    },
+    {
+      "name": [],
+      "price": [],
+      "qty": [],
+      "total": [],
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "qty": 0,
+      "total": 0,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "total": 0,
+      "id": 7
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "total": 0,
+      "id": 8
+    }
+  ]
+}
